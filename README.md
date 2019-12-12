@@ -1,2 +1,0 @@
-# firstIllustSoft
-Created with CodeSandbox
